@@ -11,7 +11,7 @@ body {
 
 .header {
   display: flex;
-  background: #000;
+  background: #c71f1f;
   color: #fff;
   justify-content: space-between;
   align-items: center;
